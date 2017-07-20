@@ -1,0 +1,82 @@
+{
+	"ret":true,
+	"data": {
+		"categories" : [{
+			"category_id" : 1,
+			"category_name" : "国际在线教育",
+			"icon" : "appstore"
+		},{
+			"category_id" : 2,
+			"category_name" : "英语学习",
+			"icon" : "appstore"
+		},{
+			"category_id" : 3,
+			"category_name" : "voa慢速英语",
+			"icon" : "appstore"
+		},{
+			"category_id" : 4,
+			"category_name" : "普特英语听力",
+			"icon" : "appstore"
+		},{
+			"category_id" : 5,
+			"category_name" : "英国留学网",
+			"icon" : "appstore"
+		},{
+			"category_id" : 6,
+			"category_name" : "托福考试",
+			"icon" : "appstore"
+		},{
+			"category_id" : 7,
+			"category_name" : "美国脱口秀",
+			"icon" : "appstore"
+		},{
+			"category_id" : 8,
+			"category_name" : "VOA美国之音",
+			"icon" : "appstore"
+		},{
+			"category_id" : 9,
+			"category_name" : "中青网英语角",
+			"icon" : "appstore"
+		},{
+			"category_id" : 10,
+			"category_name" : "大家说英语",
+			"icon" : "appstore"
+		},{
+			"category_id" : 11,
+			"category_name" : "网上学英语",
+			"icon" : "appstore"
+		},{
+			"category_id" : 12,
+			"category_name" : "在线学习网",
+			"icon" : "appstore"
+		},{
+			"category_id" : 13,
+			"category_name" : "英语点津",
+			"icon" : "appstore"
+		},{
+			"category_id" : 14,
+			"category_name" : "中华网考试",
+			"icon" : "appstore"
+		},{
+			"category_id" : 15,
+			"category_name" : "教育联展网",
+			"icon" : "appstore"
+		},{
+			"category_id" : 16,
+			"category_name" : "外语教育网",
+			"icon" : "appstore"
+		},{
+			"category_id" : 17,
+			"category_name" : "天极网南京",
+			"icon" : "appstore"
+		},{
+			"category_id" : 18,
+			"category_name" : "英文小说",
+			"icon" : "appstore"
+		},{
+			"category_id" : 19,
+			"category_name" : "CET46",
+			"icon" : "appstore"
+		}]
+	}
+}
