@@ -69,7 +69,7 @@ export default class ContentComponent extends React.Component{
 			    	this.state.articles.map((value,index)=>{
 
 			    		return (
-			    			<Link key={index+'_article'} to={"/detail/"+value.articles_id}>
+			    			<Link key={index+'_article'} to={"/detail/" + value.articles_id}>
 				    		<p  className="title" > 
 				    		<span className="article-item-category">[{value.category_title}]</span>
 					    		{value.title}
@@ -87,7 +87,8 @@ export default class ContentComponent extends React.Component{
 			  </Card>
 
 
-			  <div className="h-img"  > <img src="images/timg.gif" onClick = {this.handleBtnClick.bind(this)}/><span onClick={this.handleClickDisplay.bind(this)}>X</span></div>
+			  <div className="h-img"  > <img src="images/timg.gif" onClick = {this.handleBtnClick.bind(this)}/>
+			  <span onClick={this.handleClickDisplay.bind(this)}>X</span></div>
 			  <div className="t-title">名 师 风 采</div>
 			  <div className="t-border">
 					    <img src="images/t1.jpg"/>

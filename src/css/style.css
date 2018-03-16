@@ -127,8 +127,9 @@ body{position: relative; }
 	line-height: 25px;
 }
 .ant-tabs{
-	height: 170px;
+	height: auto;
 }
+
 #study{
 	/*background:red;*/
 	position: absolute;
@@ -272,4 +273,7 @@ body{position: relative; }
 	text-align: center;
 	line-height: 30px;
 	/*background:red;*/
+}
+.login-form{
+	height:auto;
 }

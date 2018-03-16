@@ -4,11 +4,10 @@ export default  class ContentComponent extends React.Component{
 	constructor(props){
 		super(props);
 		this.state={
-
 		}
 	}
 	componentDidMount(){
-		var id=this.props.id;
+		var id=this.props.id
 		fetch('/mock/article.json?id='+id).then((response)=>{
 			return response.json();
 		}).then((json)=>{
@@ -19,7 +18,7 @@ export default  class ContentComponent extends React.Component{
 				count:json.data.count,
 				mp3:json.data.mp3,
 			})
-			console.log(json);
+			// console.log(json);
 		})
 
 	}
